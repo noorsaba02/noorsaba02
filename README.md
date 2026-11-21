@@ -55,7 +55,7 @@
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [CareerNest (🚧 in progress)](https://github.com/noorsaba02/CareerNest) | Full-stack job portal with job search by keyword and location, and job posting | `React` `Spring Boot` `MySQL` `Hibernate` |
+| [CareerNest (🚧 in progress)](https://github.com/noorsaba02/CareerNest-Job-Portal-) | Full-stack job portal with job search by keyword and location, and job posting | `React` `Spring Boot` `MySQL` `Hibernate` |
 | [Luxe Shop](https://github.com/noorsaba02/Luxe-Shop--E-Commerce-Web-Application-) | Responsive e-commerce web application | `React.js` `JavaScript` `CSS` |
 | [Library Management System](https://github.com/noorsaba02/library-mangement) | Console app with book issue/return, search and late fines | `Java 17` `Maven` `OOP` |
 | [Memory Card Game](https://github.com/noorsaba02/Memory-Card-Game) | Card flipping and matching game | `HTML` `CSS` `JavaScript` |
