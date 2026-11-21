@@ -14,7 +14,7 @@
 
 ## 👩‍💻 About Me
 
-- 🎓 B.E. in Electronics & Communication Engineering (2025)
+- 🎓 B.E. in Electronics & Communication Engineering 
 - ☕ Java Full Stack Developer, building with Spring Boot, React.js and MySQL
 - 🤖 Past experience in AI/ML and IoT through internships
 - 📍 Based in Bangalore, India
