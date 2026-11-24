@@ -52,7 +52,7 @@
 | Project | Description | Stack |
 |---------|-------------|-------|
 | [CareerNest (🚧 in progress)](https://github.com/noorsaba02/CareerNest-Job-Portal-) | Full-stack job portal with job search by keyword and location, and job posting | `React` `Spring Boot` `MySQL` `Hibernate` |
-| [Luxe Shop]· [🔗 Live Demo](https://noorsaba02.github.io/online-luxe-shop-webpage/) | Responsive e-commerce frontend with product search, category filters, sorting, cart and wishlist | `React.js` `JavaScript` `CSS` |
+| | [Luxe Shop](https://github.com/noorsaba02/online-luxe-shop-webpage) | Responsive e-commerce frontend with product search, category filters, sorting, cart and wishlist | `React.js` `JavaScript` `CSS` |
 
 ---
 
